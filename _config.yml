@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Website # the website title (if blank, full name will be used instead)
-first_name: Cagatay
+title: # the website title (if blank, full name will be used instead)
+first_name: M. Cagatay
 middle_name: 
 last_name: Karakan
 contact_note: >

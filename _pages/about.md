@@ -11,9 +11,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>📍 Greater Boston Area, MA</p>
+    <p>📍 Boston, MA</p>
     <p>✉️ cagataykarakan@gmail.com</p>
-    <p>🔬 Multiscale Laser Lithography Lab</p>
 
 news: true
 selected_papers: true

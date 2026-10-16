@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Researcher · <a href="https://chenlab.org" target="_blank">Chen Lab</a> ·
+  Postdoctoral Researcher · <a href="https://www.chrischenlab.com/" target="_blank">Chen Lab</a> ·
   Boston University & Wyss Institute at Harvard University
 
 profile:
@@ -20,7 +20,7 @@ social: true
 ---
 
 Hi! I am a postdoctoral researcher in the lab of
-[Prof. Christopher S. Chen](https://www.chrischenlab.com/) at
+[Prof. Christopher S. Chen](https://www.bu.edu/eng/profile/christopher-chen-m-d-ph-d/) at
 Boston University and the Wyss Institute at Harvard University,
 working at the intersection of advanced microfabrication and tissue engineering.
 

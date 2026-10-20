@@ -12,8 +12,6 @@ profile:
   image_circular: false
   more_info: >
     <p>📍 Boston, MA</p>
-    <p>✉️ cagataykarakan@gmail.com</p>
-
 news: true
 selected_papers: true
 social: true

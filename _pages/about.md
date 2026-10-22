@@ -12,7 +12,7 @@ profile:
   image_circular: false
   more_info: >
     <p>📍 Boston, MA</p>
-news: true
+news: false
 selected_papers: true
 social: true
 ---
